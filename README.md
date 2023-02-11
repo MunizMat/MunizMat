@@ -1,4 +1,4 @@
-# Olá, seja bem-vidno ao meu GitHub!
+# Olá, seja bem-vindo ao meu GitHub!
 
 Meu nome é Matheus Muniz, sou desenvolvedor front-end com foco em React. Amo a área de programação! 
 
