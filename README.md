@@ -3,8 +3,8 @@
 Meu nome é Matheus Muniz, sou desenvolvedor front-end com foco em React. Amo a área de programação! 
 
 <div>
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=MunizMat&show_icons=true&theme=dracula&count_private=true">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=MunizMat&hide=ejs&theme=dracula&langs_count=8">
+    <img height="200em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=MunizMat&show_icons=true&theme=dracula&count_private=true">
+    <img height="2000em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=MunizMat&hide=ejs&theme=dracula&langs_count=8">
 </div>
 
 <div style="display: inline_block"><br>
