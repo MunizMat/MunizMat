@@ -1,6 +1,6 @@
-# Olá, seja bem-vindo ao meu GitHub!
+# Matheus Muniz
 
-Meu nome é Matheus Muniz, sou desenvolvedor front-end com foco em React. Amo a área de programação! 
+Olá! Meu nome é Matheus, sou desenvolvedor full-stack e amo a área de tecnologia! 
 
 <div>
     <img height="200em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=MunizMat&show_icons=true&theme=dracula&count_private=true">
