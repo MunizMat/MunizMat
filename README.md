@@ -11,6 +11,6 @@ Hi there, my name is Matheus. I'm a software engineer who enjoys buliding softwa
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,java,spring,js,nodejs,react,apollo,aws,docker,graphql,mongodb,mysql,nextjs,postgresql" />
+    <img src="https://skillicons.dev/icons?i=java,spring,aws,nodejs,graphql,postgresql,mysql,nextjs,react,ts,js,apollo,docker,mongodb" />
   </a>
 </p>
