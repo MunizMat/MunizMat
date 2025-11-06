@@ -14,7 +14,7 @@ I'm a software engineer from Brazil with +2 years of experience. My knowledge an
 ### Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,maven,aws,ts,nodejs,graphql,postgresql,mysql,docker,mongodb,bash,dynamodb,githubactions,nextjs,react" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,maven,aws,kubernetes,docker,ts,graphql,postgresql,mysql,mongodb,bash,dynamodb,githubactions,nextjs,react,idea" />
   </a>
 </p>
 
