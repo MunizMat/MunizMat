@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-I'm a software engineer from Brazil with +2 years of experience. My knowledge and experience revolve mainly around developing full stack applications, but I am deeply interested in specializing myself in backend development.
+I'm a software engineer from Brazil with over 3 years of experience. My knowledge and experience revolve mainly around developing full stack applications, but I am deeply interested in specializing myself in backend development.
 
-* 🌍  I'm based in Rio de Janeiro, Brazil
+* 🌍  I'm based in São Paulo, Brazil
 * 🖥️  See my portfolio at [Matheus Muniz](http://matheusmuniz.dev.br)
 * ✉️  You can contact me at [matheusmuniz215@gmail.com](mailto:matheusmuniz215@gmail.com)
 * 🧠  I'm learning Data structures and Algorithms
